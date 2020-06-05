@@ -1,0 +1,5 @@
+{
+    "name": "frontend-server",
+    "script": "server.js",
+    "instances": "1"
+  }
